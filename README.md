@@ -6,3 +6,7 @@
 [number](./JSnotes/numbers.md)
 
 [string](./JSnotes/string.md)
+
+[date](./JSnotes/date.md)
+
+[math](./JSnotes/math.md)
