@@ -13,3 +13,5 @@
 
 [array](./JSnotes/array.md)
 
+[optional channig](./JSnotes/optionalchanning.md)
+
