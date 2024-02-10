@@ -10,3 +10,6 @@
 [date](./JSnotes/date.md)
 
 [math](./JSnotes/math.md)
+
+[array](./JSnotes/array.md)
+
