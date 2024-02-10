@@ -2,3 +2,7 @@
 ## [for detail learning refer mdn website](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 [about js](./JSnotes/javascript.md)
+
+[number](./JSnotes/numbers.md)
+
+[string](./JSnotes/string.md)
