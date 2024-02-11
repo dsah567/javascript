@@ -15,3 +15,5 @@
 
 [optional channig](./JSnotes/optionalchanning.md)
 
+[functions](./JSnotes/functions.md)
+
