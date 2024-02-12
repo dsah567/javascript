@@ -23,3 +23,9 @@
 [function](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions)
 
 [toString apply call bind](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function)
+
+
+[events and event bubbling](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events)
+
+[Event reference](https://developer.mozilla.org/en-US/docs/Web/Events)
+
